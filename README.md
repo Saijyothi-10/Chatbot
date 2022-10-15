@@ -322,6 +322,10 @@ For the user query of `When is your birthday?`, each personality has a styled re
 Go back in **Test in Web Chat** on Azure Portal and chat with your bot.
 
 ![Screenshot of test in portal](media/test-in-web-chat.PNG)
+![jyothirmai122345-bot - Microsoft Azure - Google Chrome 15-10-2022 12_20_53](https://user-images.githubusercontent.com/114732219/195973565-de7e8402-8e26-4848-8a95-3b8493b7cb52.png)
+demo output
+![jyothirmai122345-bot - Microsoft Azure - Google Chrome 15-10-2022 12_21_03](https://user-images.githubusercontent.com/114732219/195973586-57127e9b-43ce-4ea7-9088-d05d2cf931e0.png)
+
 
 ## Clean up resources
 Finally, If you don't expect to need these resources in the future, you can delete them by deleting the resource group. To do so, select the resource group for this workshop, select Delete, then confirm the name of the resource group to delete.
